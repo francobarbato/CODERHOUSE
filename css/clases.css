@@ -227,3 +227,8 @@
 	text-decoration: none;
 	font-weight: 500;
 }
+.card:hover {
+	border:solid 10px;
+	border-color: #000314;
+	transform: translate(5px, 10px);
+}
